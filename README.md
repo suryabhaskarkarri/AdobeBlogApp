@@ -2,7 +2,8 @@
 
 1. Download the git repository
 2. Make sure you have the nodejs and npm installed
-3. Make sure to install mongodb in your computer (where you are running this app).
+3. Make sure to install mongodb in your computer (where you are running this app) and start it. Go through this on the steps
+   https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x-tarball/ 
 4. This project has mongodb url setting in constants.js file i.e, "mongodb://localhost:27017/Blog"
 5. Go to the project directory i.e, cd adobe-blog-app
 6. npm run dev
